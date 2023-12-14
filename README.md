@@ -1,4 +1,4 @@
-# Desafío 10
+# Desafío
 
 ## Segunda entrega del proyecto final
 ### Consignas
